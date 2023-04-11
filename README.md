@@ -48,16 +48,16 @@
 - [x] zadanie 8
 - [ ] zadanie 9
 - [x] zadanie 10
-- [ ] zadanie 11
+- [x] zadanie 11
 - [ ] zadanie 12
 
 # Lista 5
 - [ ] zadanie 1
 - [ ] zadanie 2
-- [ ] zadanie 3
-- [ ] zadanie 4
-- [ ] zadanie 5
-- [ ] zadanie 6
-- [ ] zadanie 7
+- [x] zadanie 3
+- [x] zadanie 4
+- [x] zadanie 5
+- [x] zadanie 6
+- [x] zadanie 7
 - [ ] zadanie 8
 - [ ] zadanie 9
