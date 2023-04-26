@@ -61,3 +61,13 @@
 - [x] zadanie 7
 - [x] zadanie 8
 - [x] zadanie 9
+
+# Lista 6
+- [ ] zadanie 1
+- [x] zadanie 2
+- [x] zadanie 3
+- [x] zadanie 4
+- [x] zadanie 5
+- [x] zadanie 6
+- [x] zadanie 7
+- [ ] zadanie 8
