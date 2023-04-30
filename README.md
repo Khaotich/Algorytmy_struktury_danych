@@ -71,3 +71,12 @@
 - [x] zadanie 6
 - [x] zadanie 7
 - [ ] zadanie 8
+
+# Lista 7
+- [x] zadanie 1
+- [ ] zadanie 2
+- [x] zadanie 3
+- [x] zadanie 4
+- [x] zadanie 5
+- [ ] zadanie 6
+- [x] zadanie 7
