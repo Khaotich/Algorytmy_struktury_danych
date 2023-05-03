@@ -78,5 +78,5 @@
 - [x] zadanie 3
 - [x] zadanie 4
 - [x] zadanie 5
-- [ ] zadanie 6
+- [x] zadanie 6
 - [x] zadanie 7
