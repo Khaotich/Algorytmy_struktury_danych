@@ -80,3 +80,12 @@
 - [x] zadanie 5
 - [x] zadanie 6
 - [x] zadanie 7
+
+# Lista 8
+- [x] zadanie 1
+- [x] zadanie 2
+- [x] zadanie 3
+- [ ] zadanie 4
+- [x] zadanie 5
+- [x] zadanie 6
+- [ ] zadanie 7
